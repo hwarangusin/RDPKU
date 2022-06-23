@@ -1,0 +1,2 @@
+# RDPKU
+WINDOWS7
